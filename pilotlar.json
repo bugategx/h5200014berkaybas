@@ -7,14 +7,14 @@
 
  {
    "AdiSoyadi": "Lewis Hamilton",
-   "Takimi": "Mercedes-AMG Petronas F1 Team",
+   "Takimi": "Mercedes-AMG Petronas",
    "ResimURL": "https://raw.githubusercontent.com/bugategx/h5200014berkaybas/main/hamilton.jpg",
    "SonSezonu": "2. 387.5 Puan"
  },
 
  {
    "AdiSoyadi": "Valtteri Bottas",
-   "Takimi": "Mercedes-AMG Petronas F1 Team",
+   "Takimi": "Mercedes-AMG Petronas",
    "ResimURL": "https://raw.githubusercontent.com/bugategx/h5200014berkaybas/main/bottas.jpg",
    "SonSezonu": "3. 226 Puan"
  },
@@ -28,14 +28,14 @@
  
   {
    "AdiSoyadi": "Carlos Sainz",
-   "Takimi": "Scuderia Ferrari Mission Winnow",
+   "Takimi": "Scuderia Ferrari",
    "ResimURL": "https://raw.githubusercontent.com/bugategx/h5200014berkaybas/main/sainz.jpg",
    "SonSezonu": "5. 164.5 Puan"
  },
  
   {
    "AdiSoyadi": "Lando Norris",
-   "Takimi": "McLaren F1 Team",
+   "Takimi": "McLaren",
    "ResimURL": "https://raw.githubusercontent.com/bugategx/h5200014berkaybas/main/norris.jpg",
    "SonSezonu": "6. 160 Puan"
  }
