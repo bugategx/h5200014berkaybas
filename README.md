@@ -1,1 +1,1 @@
-# h5200014berkaybas
+Mobil Yazılımlar Final Projesi
