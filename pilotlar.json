@@ -2,41 +2,41 @@
  "AdiSoyadi": "Max Verstappen",
  "Takimi": "Red Bull Racing Honda",
  "ResimURL": "https://raw.githubusercontent.com/bugategx/h5200014berkaybas/main/verstappen.jpg",
- "SonSezon": "P1 295.5"
+ "SonSezonu": "P1 295.5"
 },
 
  {
    "AdiSoyadi": "Lewis Hamilton",
    "Takimi": "Mercedes-AMG Petronas F1 Team",
    "ResimURL": "https://raw.githubusercontent.com/bugategx/h5200014berkaybas/main/hamilton.jpg",
-   "SonSezon": "P2 387.5"
+   "SonSezonu": "P2 387.5"
  },
 
  {
    "AdiSoyadi": "Valtteri Bottas",
    "Takimi": "Mercedes-AMG Petronas F1 Team",
    "ResimURL": "https://raw.githubusercontent.com/bugategx/h5200014berkaybas/main/bottas.jpg",
-   "SonSezon": "P3 226"
+   "SonSezonu": "P3 226"
  },
 
  {
    "AdiSoyadi": "Sergio Perez",
    "Takimi": "Red Bull Racing Honda",
    "ResimURL": "https://raw.githubusercontent.com/bugategx/h5200014berkaybas/main/perez.jpg",
-   "SonSezon": "P4 190"
+   "SonSezonu": "P4 190"
  },
  
   {
    "AdiSoyadi": "Carlos Sainz",
    "Takimi": "Scuderia Ferrari Mission Winnow",
    "ResimURL": "https://raw.githubusercontent.com/bugategx/h5200014berkaybas/main/sainz.jpg",
-   "SonSezon": "P5 164.5"
+   "SonSezonu": "P5 164.5"
  },
  
   {
    "AdiSoyadi": "Lando Norris",
    "Takimi": "McLaren F1 Team",
    "ResimURL": "https://raw.githubusercontent.com/bugategx/h5200014berkaybas/main/norris.jpg",
-   "SonSezon": "P6 160"
+   "SonSezonu": "P6 160"
  }
 ]
